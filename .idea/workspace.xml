@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ed85674-819a-4ee5-88e8-c1937aa63693" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/GeneratorTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <ignored path="testing-the-filesytem-with-flysystem-and-vfs.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="testing-the-filesytem-with-flysystem-and-vfs" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0739645">
+              <caret line="2" column="106" selection-start-line="2" selection-start-column="106" selection-end-line="2" selection-end-column="106" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/phpunit.xml" />
+        <option value="$PROJECT_DIR$/src/Generator.php" />
+        <option value="$PROJECT_DIR$/tests/GeneratorTest.php" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing-the-filesytem-with-flysystem-and-vfs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing-the-filesytem-with-flysystem-and-vfs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing-the-filesytem-with-flysystem-and-vfs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing-the-filesytem-with-flysystem-and-vfs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing-the-filesytem-with-flysystem-and-vfs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing-the-filesytem-with-flysystem-and-vfs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing-the-filesytem-with-flysystem-and-vfs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ed85674-819a-4ee5-88e8-c1937aa63693" name="Default" comment="" />
+      <created>1453901915760</created>
+      <option name="number" value="Default" />
+      <updated>1453901915760</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="773" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vendor/php-vfs/php-vfs/src/VirtualFileSystem/FileSystem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9246088">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+          <folding>
+            <marker date="1446721789000" expanded="true" signature="8:232" placeholder="..." />
+            <marker date="1446721789000" expanded="true" signature="270:422" placeholder="..." />
+            <marker date="1446721789000" expanded="true" signature="427:689" placeholder=" Main 'access' class to vfs implementation. It will register new stream wrapper on instantiation. ..." />
+            <marker date="1446721789000" expanded="true" signature="708:3985" placeholder="{...}" />
+            <marker date="1446721789000" expanded="true" signature="742:770" placeholder=" @var Container ..." />
+            <marker date="1446721789000" expanded="true" signature="807:991" placeholder=" Class constructor. Will register both, the stream default options and wrapper handler. ..." />
+            <marker date="1446721789000" expanded="true" signature="1027:1393" placeholder="{...}" />
+            <marker date="1446721789000" expanded="true" signature="1402:1468" placeholder=" Returns wrapper scheme. ..." />
+            <marker date="1446721789000" expanded="true" signature="1499:1541" placeholder="{...}" />
+            <marker date="1446721789000" expanded="true" signature="1550:1706" placeholder=" Registers Container object as default context option for scheme associated with FileSystem instance. ..." />
+            <marker date="1446721789000" expanded="true" signature="1776:2030" placeholder="{...}" />
+            <marker date="1446721789000" expanded="true" signature="1902:2022" placeholder="..." />
+            <marker date="1446721789000" expanded="true" signature="1914:2021" placeholder="..." />
+            <marker date="1446721789000" expanded="true" signature="2039:2127" placeholder=" Remoces wrapper registered for scheme associated with FileSystem instance. ..." />
+            <marker date="1446721789000" expanded="true" signature="2162:2224" placeholder="{...}" />
+            <marker date="1446721789000" expanded="true" signature="2233:2306" placeholder=" Returns Container instance. ..." />
+            <marker date="1446721789000" expanded="true" signature="2340:2385" placeholder="{...}" />
+            <marker date="1446721789000" expanded="true" signature="2394:2457" placeholder=" Returns Root instance. ..." />
+            <marker date="1446721789000" expanded="true" signature="2486:2541" placeholder="{...}" />
+            <marker date="1446721789000" expanded="true" signature="2550:2720" placeholder=" Returns absolute path to full URI path (with scheme) ..." />
+            <marker date="1446721789000" expanded="true" signature="2754:2846" placeholder="{...}" />
+            <marker date="1446721789000" expanded="true" signature="2855:3046" placeholder=" Creates and returns a directory ..." />
+            <marker date="1446721789000" expanded="true" signature="3125:3209" placeholder="{...}" />
+            <marker date="1446721789000" expanded="true" signature="3218:3360" placeholder=" Creates and returns a file ..." />
+            <marker date="1446721789000" expanded="true" signature="3414:3487" placeholder="{...}" />
+            <marker date="1446721789000" expanded="true" signature="3496:3568" placeholder=" Creates fs structure ..." />
+            <marker date="1446721789000" expanded="true" signature="3624:3693" placeholder="{...}" />
+            <marker date="1446721789000" expanded="true" signature="3702:3841" placeholder=" Creates and returns a link ..." />
+            <marker date="1446721789000" expanded="true" signature="3899:3983" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/league/flysystem/src/Filesystem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59084195">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding>
+            <marker date="1450556203000" expanded="true" signature="40:160" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="165:460" placeholder=" @method array getWithMetadata(string $path, array $metadata) ..." />
+            <marker date="1450556203000" expanded="true" signature="510:9490" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="571:606" placeholder=" @var AdapterInterface ..." />
+            <marker date="1450556203000" expanded="true" signature="641:753" placeholder=" Constructor. ..." />
+            <marker date="1450556203000" expanded="true" signature="830:912" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="921:998" placeholder=" Get the Adapter. ..." />
+            <marker date="1450556203000" expanded="true" signature="1033:1076" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="1085:1110" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="1143:1255" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="1264:1289" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="1355:1574" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="1583:1608" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="1680:2106" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="1727:1845" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="2115:2140" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="2204:2513" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="2337:2428" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="2522:2547" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="2617:3138" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="2664:2782" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="2950:3047" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="3147:3172" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="3215:3478" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="3378:3413" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="3487:3512" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="3579:3801" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="3810:3835" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="3908:4335" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="3955:4073" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="4344:4369" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="4403:4633" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="4554:4589" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="4642:4667" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="4707:4939" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="4862:4897" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="4948:4973" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="5019:5270" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="5279:5304" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="5348:5590" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="5599:5624" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="5660:5805" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="5814:5839" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="5881:6136" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="5969:6064" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="6145:6170" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="6232:6417" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="6426:6451" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="6523:6765" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="6774:6799" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="6840:7075" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="6996:7031" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="7084:7109" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="7151:7388" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="7308:7343" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="7397:7422" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="7465:7713" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="7632:7667" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="7722:7747" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="7784:8017" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="7936:7971" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="8026:8051" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="8107:8242" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="8251:8276" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="8317:8467" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="8476:8501" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="8559:8913" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="8637:8805" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="8922:9052" placeholder=" Assert a file is present. ..." />
+            <marker date="1450556203000" expanded="true" signature="9095:9205" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="9137:9198" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="9214:9341" placeholder=" Assert a file is absent. ..." />
+            <marker date="1450556203000" expanded="true" signature="9383:9488" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="9422:9481" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/league/flysystem/src/Plugin/PluggableTrait.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.165007">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/league/flysystem-vfs/src/VfsAdapter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28449503">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <marker date="1446728814000" expanded="true" signature="43:164" placeholder="..." />
+            <marker date="1446728814000" expanded="true" signature="196:2423" placeholder="{...}" />
+            <marker date="1446728814000" expanded="true" signature="206:236" placeholder=" @type FileSystem ..." />
+            <marker date="1446728814000" expanded="true" signature="265:301" placeholder=" @param FileSystem $vfs ..." />
+            <marker date="1446728814000" expanded="true" signature="352:445" placeholder="{...}" />
+            <marker date="1446728814000" expanded="true" signature="454:602" placeholder=" Ensure the root directory exists. ..." />
+            <marker date="1446728814000" expanded="true" signature="650:750" placeholder="{...}" />
+            <marker date="1446728814000" expanded="true" signature="759:786" placeholder=" {@inheritdoc} ..." />
+            <marker date="1446728814000" expanded="true" signature="848:1358" placeholder="{...}" />
+            <marker date="1446728814000" expanded="true" signature="1033:1068" placeholder="..." />
+            <marker date="1446728814000" expanded="true" signature="1214:1326" placeholder="..." />
+            <marker date="1446728814000" expanded="true" signature="1367:1394" placeholder=" {@inheritdoc} ..." />
+            <marker date="1446728814000" expanded="true" signature="1457:1756" placeholder="{...}" />
+            <marker date="1446728814000" expanded="true" signature="1649:1684" placeholder="..." />
+            <marker date="1446728814000" expanded="true" signature="1765:1792" placeholder=" {@inheritdoc} ..." />
+            <marker date="1446728814000" expanded="true" signature="1830:1899" placeholder="{...}" />
+            <marker date="1446728814000" expanded="true" signature="1908:1935" placeholder=" {@inheritdoc} ..." />
+            <marker date="1446728814000" expanded="true" signature="1981:2167" placeholder="{...}" />
+            <marker date="1446728814000" expanded="true" signature="2034:2069" placeholder="..." />
+            <marker date="1446728814000" expanded="true" signature="2176:2238" placeholder=" @param string $path ..." />
+            <marker date="1446728814000" expanded="true" signature="2279:2421" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/league/flysystem/src/Adapter/Local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.460882">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <marker date="1450556203000" expanded="true" signature="48:375" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="412:11768" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="422:444" placeholder=" @var int ..." />
+            <marker date="1450556203000" expanded="true" signature="484:506" placeholder=" @var int ..." />
+            <marker date="1450556203000" expanded="true" signature="550:574" placeholder=" @var array ..." />
+            <marker date="1450556203000" expanded="true" signature="614:801" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="634:704" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="725:795" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="812:837" placeholder=" @var string ..." />
+            <marker date="1450556203000" expanded="true" signature="900:924" placeholder=" @var array ..." />
+            <marker date="1450556203000" expanded="true" signature="965:987" placeholder=" @var int ..." />
+            <marker date="1450556203000" expanded="true" signature="1024:1046" placeholder=" @var int ..." />
+            <marker date="1450556203000" expanded="true" signature="1084:1246" placeholder=" Constructor. ..." />
+            <marker date="1450556203000" expanded="true" signature="1373:1895" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="1664:1760" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="1904:2052" placeholder=" Ensure the root directory exists. ..." />
+            <marker date="1450556203000" expanded="true" signature="2100:2316" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="2138:2276" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="2325:2350" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="2383:2486" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="2495:2520" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="2582:3111" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="2786:2821" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="2967:3079" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="3120:3145" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="3213:3724" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="3391:3426" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="3514:3549" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="3607:3670" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="3733:3758" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="3798:3945" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="3954:3979" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="4048:4122" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="4131:4156" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="4219:4550" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="4443:4478" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="4559:4584" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="4618:4848" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="4761:4796" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="4857:4882" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="4928:5223" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="5232:5257" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="5301:5523" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="5532:5557" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="5593:5691" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="5700:5725" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="5797:6400" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="5941:5973" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="6138:6354" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="6247:6286" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="6409:6434" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="6475:6631" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="6640:6665" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="6702:6756" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="6765:6790" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="6831:6999" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="7008:7033" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="7075:7129" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="7138:7163" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="7206:7550" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="7559:7584" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="7640:7944" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="7863:7898" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="7953:7978" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="8036:8462" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="8290:8328" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="8336:8406" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="8471:8496" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="8538:9015" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="8635:8670" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="8859:8974" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="9024:9050" placeholder=" @param $file ..." />
+            <marker date="1450556203000" expanded="true" signature="9103:9414" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="9145:9407" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="9169:9237" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="9262:9331" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="9352:9398" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="9423:9528" placeholder=" Normalize the file info. ..." />
+            <marker date="1450556203000" expanded="true" signature="9590:9818" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="9630:9685" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="9745:9811" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="9827:9959" placeholder=" Get the normalized path from a SplFileInfo object. ..." />
+            <marker date="1450556203000" expanded="true" signature="10015:10179" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="10188:10296" placeholder=" @param string $path ..." />
+            <marker date="1450556203000" expanded="true" signature="10405:10574" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="10583:10656" placeholder=" @param string $path ..." />
+            <marker date="1450556203000" expanded="true" signature="10709:10798" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="10807:10873" placeholder=" @param SplFileInfo $file ..." />
+            <marker date="1450556203000" expanded="true" signature="10929:11258" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="10959:11057" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="11161:11222" placeholder="..." />
+            <marker date="1450556203000" expanded="true" signature="11267:11292" placeholder=" @inheritdoc ..." />
+            <marker date="1450556203000" expanded="true" signature="11337:11475" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="11484:11568" placeholder=" @param SplFileInfo $file ..." />
+            <marker date="1450556203000" expanded="true" signature="11643:11766" placeholder="{...}" />
+            <marker date="1450556203000" expanded="true" signature="11687:11759" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/GeneratorTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.715505">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <marker date="1453905992000" expanded="true" signature="11:140" placeholder="..." />
+            <marker date="1453905992000" expanded="true" signature="196:738" placeholder="{...}" />
+            <marker date="1453905992000" expanded="true" signature="206:234" placeholder=" @var Generator ..." />
+            <marker date="1453905992000" expanded="true" signature="270:299" placeholder=" @var Filesystem ..." />
+            <marker date="1453905992000" expanded="true" signature="351:511" placeholder="{...}" />
+            <marker date="1453905992000" expanded="true" signature="520:539" placeholder=" @test ..." />
+            <marker date="1453905992000" expanded="true" signature="591:736" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Generator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.715505">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <marker date="1453904763000" expanded="true" signature="76:406" placeholder="{...}" />
+            <marker date="1453904763000" expanded="true" signature="86:133" placeholder=" @var \League\Flysystem\Filesystem ..." />
+            <marker date="1453904763000" expanded="true" signature="217:270" placeholder="{...}" />
+            <marker date="1453904763000" expanded="true" signature="298:404" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpunit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.71123755">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <marker date="1453902737000" expanded="true" signature="69:712" placeholder="..." />
+            <marker date="1453902737000" expanded="true" signature="384:505" placeholder="..." />
+            <marker date="1453902737000" expanded="true" signature="422:487" placeholder="..." />
+            <marker date="1453902737000" expanded="true" signature="518:627" placeholder="..." />
+            <marker date="1453902737000" expanded="true" signature="538:613" placeholder="..." />
+            <marker date="1453902737000" expanded="true" signature="637:701" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1453901661000" expanded="true" signature="0:211" placeholder="{...}" />
+            <marker date="1453901661000" expanded="true" signature="15:87" placeholder="{&quot;league/flysystem&quot;: &quot;^1.0&quot;...}" />
+            <marker date="1453901661000" expanded="true" signature="106:141" placeholder="{&quot;phpunit/phpunit&quot;: &quot;^5.1&quot;...}" />
+            <marker date="1453901661000" expanded="true" signature="157:209" placeholder="{...}" />
+            <marker date="1453901661000" expanded="true" signature="172:205" placeholder="{&quot;License\&quot;: &quot;src/&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0739645">
+          <caret line="2" column="106" selection-start-line="2" selection-start-column="106" selection-end-line="2" selection-end-column="106" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

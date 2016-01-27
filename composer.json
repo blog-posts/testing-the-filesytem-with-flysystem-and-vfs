@@ -1,0 +1,14 @@
+{
+  "require": {
+    "league/flysystem": "^1.0",
+    "league/flysystem-vfs": "^1.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^5.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "License\\": "src/"
+    }
+  }
+}
